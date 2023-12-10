@@ -39,19 +39,3 @@
     transform: rotate(360deg);
   }
 }
-
-.red {
-  background-color: red;
-  height: 100px;
-  width: 100px;
-}
-.yellow {
-  background-color: yellow;
-  height: 100px;
-  width: 100px;
-}
-.green {
-  background-color: green;
-  height: 100px;
-  width: 100px;
-}
